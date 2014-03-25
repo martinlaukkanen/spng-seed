@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPNG3", "SPNG3\SPNG3.csproj", "{C5277B25-AD86-4835-9C66-288456AC506C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPNG", "SPNG\SPNG.csproj", "{C5277B25-AD86-4835-9C66-288456AC506C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

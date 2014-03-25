@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
-  <Module Name="RootModule">
-    <File Path="Controllers\myController.js" Url="Controllers/myController.js" ReplaceContent="TRUE" />
-    <File Path="Services\SharePointService.js" Url="Services/SharePointService.js" ReplaceContent="TRUE" />
-    <File Path="Views\myMsgView.html" Url="Views/myMsgView.html" ReplaceContent="TRUE" />
-    <File Path="Models\myMsg.js" Url="Models/myMsg.js" ReplaceContent="TRUE" />
-  </Module>
-</Elements>
