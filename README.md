@@ -12,3 +12,9 @@ Initial version notes:
 - NUGET AngularJS-Core package
 - Folder structure as per ASP.NET MVC pattern (/Controllers, /Models, /Views, etc)
 - Sample Model, View and Controller including directive and services to recreate the "'Hello ' + user.get_title()" default template functionality.
+
+---
+
+Comments / more information:
+
+http://nearbaseline.com/blog/2014/03/angularjs-and-sharepoint-app-template/
