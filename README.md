@@ -23,7 +23,7 @@ https://github.com/martinlaukkanen/spng-seed/releases
 ###Installation
 Download the SPNG.zip file and place it in the following folder on your computer:
 
-\My Documents\Visual Studio **Version**\Templates\ProjectTemplates\
+\My Documents\Visual Studio *Version*\Templates\ProjectTemplates\
 
 
 ##Feedback Please!
