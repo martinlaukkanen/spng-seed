@@ -5,7 +5,6 @@ This is a test project designed to be a seed project (or eventually a Visual Stu
 
 The project structure is built to be very familiar to any ASP.NET MVC developer, while providing a good starting point for a simple (or complex) SharePoint AngularJS based App.
 
-=========
 
 ###Initial version notes
 - VS2013 SharePoint Hosted App Project Template
@@ -27,8 +26,6 @@ Download the SPNG.zip file and place it in the following folder on your computer
 
 \My Documents\Visual Studio **Version**\Templates\ProjectTemplates\
 
-
-=========
 
 ##Feedback Please!
 
