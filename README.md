@@ -1,4 +1,4 @@
-SharePoint / AngularJS App Seed Project
+#SharePoint / AngularJS App Seed Project
 =========
 
 This is a test project designed to be a seed project (or eventually a Visual Studio Template) to implement a SharePoint single-page App built using AngularJS with a heavy emphasis on MVC design patterns.
@@ -7,7 +7,7 @@ The project structure is built to be very familiar to any ASP.NET MVC developer,
 
 ---
 
-Initial version notes:
+##Initial version notes:
 - VS2013 SharePoint Hosted App Project Template
 - NUGET AngularJS-Core package
 - Folder structure as per ASP.NET MVC pattern (/Controllers, /Models, /Views, etc)
@@ -15,7 +15,7 @@ Initial version notes:
 
 ---
 
-Feedback Please!
+##Feedback Please!
 
 I’m very keen for any feedback on this so either post below or even on GitHub, in particular my choice of using Directives vs Views or Slices or Includes is somewhat arbitrary. Although it is largely based on my view that this SPA (Single Page App) should not need routes and such as I don’t want to think how that could work within an SPAppWeb.
 
@@ -23,6 +23,6 @@ Finally, I am by no means an Angular expert, in fact I’m brand new to it! So a
 
 ---
 
-Comments / more information:
+##Comments / more information:
 
 http://nearbaseline.com/blog/2014/03/angularjs-and-sharepoint-app-template/
