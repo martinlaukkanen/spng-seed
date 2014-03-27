@@ -25,6 +25,7 @@ Download the SPNG.zip file and place it in the following folder on your computer
 
 \My Documents\Visual Studio *Version*\Templates\ProjectTemplates\
 
+Then open Visual Studio 2013 and select New Project, you should find the SPNG template under JavaScript project types. Note: that you will have to manually specify your SharePoint DEV site URL once created.
 
 ##Feedback Please!
 
