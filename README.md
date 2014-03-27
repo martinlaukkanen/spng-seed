@@ -28,7 +28,7 @@ Download the SPNG.zip file and place it in the following folder on your computer
 
 ##Feedback Please!
 
-I’m very keen for any feedback on this so either post below or even on GitHub, in particular my choice of using Directives vs Views or Slices or Includes is somewhat arbitrary. Although it is largely based on my view that this SPA (Single Page App) should not need routes and such as I don’t want to think how that could work within an SPAppWeb.
+I’m very keen for any feedback on this so either post on the blog below or here on GitHub, in particular my choice of using Directives vs Views or Slices or Includes is somewhat arbitrary. Although it is largely based on my view that this SPA (Single Page App) should not need routes and such as I don’t want to think how that could work within an SPAppWeb.
 
 Finally, I am by no means an Angular expert, in fact I’m brand new to it! So all suggestions on best-practices and relevant design patterns are more than welcome.
 
