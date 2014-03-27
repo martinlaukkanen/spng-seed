@@ -5,7 +5,7 @@ This is a test project designed to be a seed project (or eventually a Visual Stu
 
 The project structure is built to be very familiar to any ASP.NET MVC developer, while providing a good starting point for a simple (or complex) SharePoint AngularJS based App.
 
----
+=========
 
 ###Initial version notes
 - VS2013 SharePoint Hosted App Project Template
@@ -13,17 +13,22 @@ The project structure is built to be very familiar to any ASP.NET MVC developer,
 - Folder structure as per ASP.NET MVC pattern (/Controllers, /Models, /Views, etc)
 - Sample Model, View and Controller including directive and services to recreate the "'Hello ' + user.get_title()" default template functionality.
 
+---
 
 ###Releases
-Get the initial release download to test this for yourself.
+Get the initial release download to test this for yourself:
+
 https://github.com/martinlaukkanen/spng-seed/releases
 
+---
 
 ###Installation
 Download the SPNG.zip file and place it in the following folder on your computer:
+
 \My Documents\Visual Studio **Version**\Templates\ProjectTemplates\
 
----
+
+=========
 
 ##Feedback Please!
 
