@@ -7,7 +7,7 @@ The project structure is built to be very familiar to any ASP.NET MVC developer,
 
 ---
 
-##Initial version notes:
+###Initial version notes
 - VS2013 SharePoint Hosted App Project Template
 - NUGET AngularJS-Core package
 - Folder structure as per ASP.NET MVC pattern (/Controllers, /Models, /Views, etc)
@@ -23,6 +23,6 @@ Finally, I am by no means an Angular expert, in fact I’m brand new to it! So a
 
 ---
 
-##Comments / more information:
+###Comments / more information
 
 http://nearbaseline.com/blog/2014/03/angularjs-and-sharepoint-app-template/
