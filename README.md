@@ -32,7 +32,6 @@ I’m very keen for any feedback on this so either post below or even on GitHub,
 
 Finally, I am by no means an Angular expert, in fact I’m brand new to it! So all suggestions on best-practices and relevant design patterns are more than welcome.
 
----
 
 ###Comments / more information
 
