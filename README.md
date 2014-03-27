@@ -13,6 +13,16 @@ The project structure is built to be very familiar to any ASP.NET MVC developer,
 - Folder structure as per ASP.NET MVC pattern (/Controllers, /Models, /Views, etc)
 - Sample Model, View and Controller including directive and services to recreate the "'Hello ' + user.get_title()" default template functionality.
 
+
+###Releases
+Get the initial release download to test this for yourself.
+https://github.com/martinlaukkanen/spng-seed/releases
+
+
+###Installation
+Download the SPNG.zip file and place it in the following folder on your computer:
+\My Documents\Visual Studio **Version**\Templates\ProjectTemplates\
+
 ---
 
 ##Feedback Please!
